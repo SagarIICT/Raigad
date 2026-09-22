@@ -6,7 +6,31 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Loading.unity
+    path: Assets/Scenes/S1 Loading.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/S2 Title And Mode Select.unity
+    guid: 0fbf82cdc76769c49a32e209cdcdb42f
+  - enabled: 1
+    path: Assets/Scenes/S3 Story Mode.unity
+    guid: ac8947a837163d249979b03ac9d3c735
+  - enabled: 1
+    path: Assets/Scenes/S4 Maha Darwaja.unity
+    guid: 5a3e9187a93e4a64cb9ce55ced5e4064
+  - enabled: 1
+    path: Assets/Scenes/S5 Raj Sadar.unity
+    guid: a10c8915a2549e747996300043c5ac2a
+  - enabled: 1
+    path: Assets/Scenes/S6 Hirakani.unity
+    guid: e3bd65db354b4104099965a4358eb476
+  - enabled: 1
+    path: Assets/Scenes/S7 Samadhi.unity
+    guid: d534a8bb2c2753448b1377d0926853bc
+  - enabled: 1
+    path: Assets/Scenes/S8 Quiz.unity
+    guid: 33a02fd029d7f584b8085e70efe603f2
+  - enabled: 1
+    path: Assets/Scenes/S9 End and Credits.unity
+    guid: 3ddc11ee502148444a797ea05221db04
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
