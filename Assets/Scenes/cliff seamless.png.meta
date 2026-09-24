@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 1e875e2cef4b0454d9e860a5168d63ed
+guid: cb1c736f99df3de43bd44b8629ff1cc3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4546380003100693730
-    second: Untitled-1 [Recovered]-05_0
-  - first:
-      213: -3331003501790514512
-    second: Untitled-1 [Recovered]-05_1
-  - first:
-      213: -5278016517238152803
-    second: Untitled-1 [Recovered]-05_2
+      213: -2642661293242698688
+    second: cliff seamless_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Untitled-1 [Recovered]-05_0
+      name: cliff seamless_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 273
-        width: 166
-        height: 327
+        x: 111
+        y: 185
+        width: 1937
+        height: 5235
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,52 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1b6e35997308e0c0800000000000000
-      internalID: -4546380003100693730
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Untitled-1 [Recovered]-05_1
-      rect:
-        serializedVersion: 2
-        x: 247
-        y: 90
-        width: 6112
-        height: 691
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b2b13aa6f5e5c1d0800000000000000
-      internalID: -3331003501790514512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Untitled-1 [Recovered]-05_2
-      rect:
-        serializedVersion: 2
-        x: 6401
-        y: 273
-        width: 166
-        height: 331
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d91206311f7b0c6b0800000000000000
-      internalID: -5278016517238152803
+      spriteID: 04438922e81635bd0800000000000000
+      internalID: -2642661293242698688
       vertices: []
       indices: 
       edges: []
@@ -190,7 +140,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -200,9 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Untitled-1 [Recovered]-05_0: -4546380003100693730
-      Untitled-1 [Recovered]-05_1: -3331003501790514512
-      Untitled-1 [Recovered]-05_2: -5278016517238152803
+      cliff seamless_0: -2642661293242698688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

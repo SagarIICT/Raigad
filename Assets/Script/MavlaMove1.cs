@@ -16,5 +16,14 @@ public class MavlaMove1 : MonoBehaviour
         finalSpeed = new Vector2(x, 0);
 
         Body.linearVelocity = finalSpeed * speed;
+
+        if (x < 0f)
+        {
+            sr.flipX = true;
+        }
+        else if (x > 0f)
+        {
+            sr.flipX = false;
+        }
     }
 }
