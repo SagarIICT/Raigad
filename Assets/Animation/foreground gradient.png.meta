@@ -1,0 +1,3720 @@
+fileFormatVersion: 2
+guid: 5ddf8a776998d3049b79234e2b183667
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2419097854591538884
+    second: foreground gradient_0
+  - first:
+      213: -8699094581985155137
+    second: foreground gradient_1
+  - first:
+      213: -6150871824499168686
+    second: foreground gradient_2
+  - first:
+      213: 5788738673809936145
+    second: foreground gradient_3
+  - first:
+      213: -1960367784514909862
+    second: foreground gradient_4
+  - first:
+      213: -6629898713110957337
+    second: foreground gradient_5
+  - first:
+      213: -2740549319789914234
+    second: foreground gradient_6
+  - first:
+      213: -5890619392554403019
+    second: foreground gradient_7
+  - first:
+      213: 7870026120239875506
+    second: foreground gradient_8
+  - first:
+      213: -5304428244141108811
+    second: foreground gradient_9
+  - first:
+      213: -1490502339059824986
+    second: foreground gradient_10
+  - first:
+      213: 6927764775076276683
+    second: foreground gradient_11
+  - first:
+      213: 2037007518670023013
+    second: foreground gradient_12
+  - first:
+      213: -7662738183247314608
+    second: foreground gradient_13
+  - first:
+      213: 7762494157371728239
+    second: foreground gradient_14
+  - first:
+      213: 8351432431523935757
+    second: foreground gradient_15
+  - first:
+      213: -3474501316047272340
+    second: foreground gradient_16
+  - first:
+      213: -7586568609494178386
+    second: foreground gradient_17
+  - first:
+      213: -2469474206822244292
+    second: foreground gradient_18
+  - first:
+      213: -2561643005778697502
+    second: foreground gradient_19
+  - first:
+      213: 2461155181229055607
+    second: foreground gradient_20
+  - first:
+      213: 5787350906602421984
+    second: foreground gradient_21
+  - first:
+      213: -6872451550322482139
+    second: foreground gradient_22
+  - first:
+      213: 200674774113907207
+    second: foreground gradient_23
+  - first:
+      213: 58294153575037204
+    second: foreground gradient_24
+  - first:
+      213: 2740835389425232410
+    second: foreground gradient_25
+  - first:
+      213: -2514883101328195202
+    second: foreground gradient_26
+  - first:
+      213: 4935101974758590980
+    second: foreground gradient_27
+  - first:
+      213: 6430624278069512184
+    second: foreground gradient_28
+  - first:
+      213: 2863893264361995020
+    second: foreground gradient_29
+  - first:
+      213: -8631414892737638636
+    second: foreground gradient_30
+  - first:
+      213: -8813182295627717096
+    second: foreground gradient_31
+  - first:
+      213: -7273547324682224036
+    second: foreground gradient_32
+  - first:
+      213: 3058024706112227787
+    second: foreground gradient_33
+  - first:
+      213: 974785531312719385
+    second: foreground gradient_34
+  - first:
+      213: 7696280387067702175
+    second: foreground gradient_35
+  - first:
+      213: 3410864027862349221
+    second: foreground gradient_36
+  - first:
+      213: 2391394807239879524
+    second: foreground gradient_37
+  - first:
+      213: -5436673973526766485
+    second: foreground gradient_38
+  - first:
+      213: -2615955549721084167
+    second: foreground gradient_39
+  - first:
+      213: -9032017078328112997
+    second: foreground gradient_40
+  - first:
+      213: 6576495043372817963
+    second: foreground gradient_41
+  - first:
+      213: -1221179058234116383
+    second: foreground gradient_42
+  - first:
+      213: 3137332086156106132
+    second: foreground gradient_43
+  - first:
+      213: 5888306682068538732
+    second: foreground gradient_44
+  - first:
+      213: 6289741269499164260
+    second: foreground gradient_45
+  - first:
+      213: -6352095547843902617
+    second: foreground gradient_46
+  - first:
+      213: 3488206742842595356
+    second: foreground gradient_47
+  - first:
+      213: -6028754590492825043
+    second: foreground gradient_48
+  - first:
+      213: -8056398447690394231
+    second: foreground gradient_49
+  - first:
+      213: 5060322506157265103
+    second: foreground gradient_50
+  - first:
+      213: 8465782242656751240
+    second: foreground gradient_51
+  - first:
+      213: 2201469526725161664
+    second: foreground gradient_52
+  - first:
+      213: 4569503895473601744
+    second: foreground gradient_53
+  - first:
+      213: -5280193065035274079
+    second: foreground gradient_54
+  - first:
+      213: -5419963225951243016
+    second: foreground gradient_55
+  - first:
+      213: -6910514452334303318
+    second: foreground gradient_56
+  - first:
+      213: 8130037780236056444
+    second: foreground gradient_57
+  - first:
+      213: 7113064364299842604
+    second: foreground gradient_58
+  - first:
+      213: -5883579887344301085
+    second: foreground gradient_59
+  - first:
+      213: 7214619373987284514
+    second: foreground gradient_60
+  - first:
+      213: 3762150228649984723
+    second: foreground gradient_61
+  - first:
+      213: 5190254598815719667
+    second: foreground gradient_62
+  - first:
+      213: -1914315705405241891
+    second: foreground gradient_63
+  - first:
+      213: -7809160143598563949
+    second: foreground gradient_64
+  - first:
+      213: 6320121378965654719
+    second: foreground gradient_65
+  - first:
+      213: 1332892098953306505
+    second: foreground gradient_66
+  - first:
+      213: -3694033266606399311
+    second: foreground gradient_67
+  - first:
+      213: -1282788170260485105
+    second: foreground gradient_68
+  - first:
+      213: 839186194505837401
+    second: foreground gradient_69
+  - first:
+      213: 1646227279753905815
+    second: foreground gradient_70
+  - first:
+      213: 7037977877116487902
+    second: foreground gradient_71
+  - first:
+      213: 2685685324466354223
+    second: foreground gradient_72
+  - first:
+      213: 4204400757086851421
+    second: foreground gradient_73
+  - first:
+      213: -3495759834887337393
+    second: foreground gradient_74
+  - first:
+      213: -7825571697887513727
+    second: foreground gradient_75
+  - first:
+      213: -8086886401625432071
+    second: foreground gradient_76
+  - first:
+      213: -5696862373361597315
+    second: foreground gradient_77
+  - first:
+      213: -7297071708936059757
+    second: foreground gradient_78
+  - first:
+      213: 3076562162948416703
+    second: foreground gradient_79
+  - first:
+      213: 8587536483459427112
+    second: foreground gradient_80
+  - first:
+      213: -7206234010195106745
+    second: foreground gradient_81
+  - first:
+      213: 1359522552326531826
+    second: foreground gradient_82
+  - first:
+      213: -4246967436841841087
+    second: foreground gradient_83
+  - first:
+      213: 3394601781396119616
+    second: foreground gradient_84
+  - first:
+      213: -964840092650738621
+    second: foreground gradient_85
+  - first:
+      213: 9087021513527157852
+    second: foreground gradient_86
+  - first:
+      213: 7669456743757956843
+    second: foreground gradient_87
+  - first:
+      213: 7104065107978145470
+    second: foreground gradient_88
+  - first:
+      213: -6140922758274222097
+    second: foreground gradient_89
+  - first:
+      213: 253642248073695092
+    second: foreground gradient_90
+  - first:
+      213: -3376822149572892155
+    second: foreground gradient_91
+  - first:
+      213: 4421805041729773991
+    second: foreground gradient_92
+  - first:
+      213: -5391180395893814921
+    second: foreground gradient_93
+  - first:
+      213: 8068994106177132595
+    second: foreground gradient_94
+  - first:
+      213: 2293195491282011539
+    second: foreground gradient_95
+  - first:
+      213: 302320510162936676
+    second: foreground gradient_96
+  - first:
+      213: -4023797980752796783
+    second: foreground gradient_97
+  - first:
+      213: 90897241568295781
+    second: foreground gradient_98
+  - first:
+      213: -273625669324996870
+    second: foreground gradient_99
+  - first:
+      213: 2081183329219363435
+    second: foreground gradient_100
+  - first:
+      213: 5543234558083840806
+    second: foreground gradient_101
+  - first:
+      213: -4108018101644618519
+    second: foreground gradient_102
+  - first:
+      213: 6349759055151316801
+    second: foreground gradient_103
+  - first:
+      213: -8992297979779180033
+    second: foreground gradient_104
+  - first:
+      213: 2397201411197271460
+    second: foreground gradient_105
+  - first:
+      213: -620100624035055375
+    second: foreground gradient_106
+  - first:
+      213: 8246323245594616923
+    second: foreground gradient_107
+  - first:
+      213: -6286600914771967301
+    second: foreground gradient_108
+  - first:
+      213: 697956803850539932
+    second: foreground gradient_109
+  - first:
+      213: 8692467289880503088
+    second: foreground gradient_110
+  - first:
+      213: 379548109534869254
+    second: foreground gradient_111
+  - first:
+      213: 7702300019847558362
+    second: foreground gradient_112
+  - first:
+      213: -404442577291598844
+    second: foreground gradient_113
+  - first:
+      213: 5892883002176476037
+    second: foreground gradient_114
+  - first:
+      213: 1042175692613668721
+    second: foreground gradient_115
+  - first:
+      213: 2829566340480981882
+    second: foreground gradient_116
+  - first:
+      213: -1712689721043356873
+    second: foreground gradient_117
+  - first:
+      213: -7944795020212924157
+    second: foreground gradient_118
+  - first:
+      213: -4863489553924625693
+    second: foreground gradient_119
+  - first:
+      213: -5791738728791593023
+    second: foreground gradient_120
+  - first:
+      213: -7229965682100381116
+    second: foreground gradient_121
+  - first:
+      213: 6972352630182431080
+    second: foreground gradient_122
+  - first:
+      213: 2319897437054294036
+    second: foreground gradient_123
+  - first:
+      213: -5252340102666514667
+    second: foreground gradient_124
+  - first:
+      213: 621204974375585721
+    second: foreground gradient_125
+  - first:
+      213: 8114274772431423021
+    second: foreground gradient_126
+  - first:
+      213: -5659424034046282168
+    second: foreground gradient_127
+  - first:
+      213: 5586584308171988604
+    second: foreground gradient_128
+  - first:
+      213: -1070693472365519327
+    second: foreground gradient_129
+  - first:
+      213: 6877111380612967624
+    second: foreground gradient_130
+  - first:
+      213: -7556623031734053577
+    second: foreground gradient_131
+  - first:
+      213: -3275542158480850815
+    second: foreground gradient_132
+  - first:
+      213: -1863423752800266142
+    second: foreground gradient_133
+  - first:
+      213: 147037364045221735
+    second: foreground gradient_134
+  - first:
+      213: -4253738779104286677
+    second: foreground gradient_135
+  - first:
+      213: 5989390358159166201
+    second: foreground gradient_136
+  - first:
+      213: 920755931098421817
+    second: foreground gradient_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: foreground gradient_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3840
+        height: 1777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3969247153ad6ed0800000000000000
+      internalID: -2419097854591538884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_1
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1749
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ef35419b964780800000000000000
+      internalID: -8699094581985155137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_2
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1745
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aa4c11aa6b3aaa0800000000000000
+      internalID: -6150871824499168686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_3
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1746
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fc10e572bb55050800000000000000
+      internalID: 5788738673809936145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_4
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1750
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a598edee2ef5bc4e0800000000000000
+      internalID: -1960367784514909862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_5
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1749
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2b3344f3eddf3a0800000000000000
+      internalID: -6629898713110957337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_6
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1743
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687db78e9ec97f9d0800000000000000
+      internalID: -2740549319789914234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_7
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1751
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b74cf4fd0504ea0800000000000000
+      internalID: -5890619392554403019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_8
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1747
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b581f52f03f73d60800000000000000
+      internalID: 7870026120239875506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_9
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 1741
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b19b63bd92e266b0800000000000000
+      internalID: -5304428244141108811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_10
+      rect:
+        serializedVersion: 2
+        x: 3825
+        y: 1737
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a64377050ca05be0800000000000000
+      internalID: -1490502339059824986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1735
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9a2e9ab5d542060800000000000000
+      internalID: 6927764775076276683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1737
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5696023bb87e44c10800000000000000
+      internalID: 2037007518670023013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1738
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051c8b4a83c78a590800000000000000
+      internalID: -7662738183247314608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1735
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61ef250f4be9bb60800000000000000
+      internalID: 7762494157371728239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1737
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0639a67c8f36e370800000000000000
+      internalID: 8351432431523935757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1739
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c660065367718cfc0800000000000000
+      internalID: -3474501316047272340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1743
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea568f68b0817b690800000000000000
+      internalID: -7586568609494178386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_18
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1736
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30ee50fa4aaabdd0800000000000000
+      internalID: -2469474206822244292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1739
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e262372247337cd0800000000000000
+      internalID: -2561643005778697502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_20
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1739
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e154af897c72220800000000000000
+      internalID: 2461155181229055607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1740
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee7292acfcc05050800000000000000
+      internalID: 5787350906602421984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_22
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1737
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52422fe0ab520a0a0800000000000000
+      internalID: -6872451550322482139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_23
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1736
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702f072d4a0f8c200800000000000000
+      internalID: 200674774113907207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1740
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419725c493a1fc000800000000000000
+      internalID: 58294153575037204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_25
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1737
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aa28ed347690620800000000000000
+      internalID: 2740835389425232410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_26
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1736
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7143bdc427591dd0800000000000000
+      internalID: -2514883101328195202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_27
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1733
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a80d749110d7440800000000000000
+      internalID: 4935101974758590980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_28
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1734
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f70652c5ba2e3950800000000000000
+      internalID: 6430624278069512184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_29
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1740
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b3ee810c79eb720800000000000000
+      internalID: 2863893264361995020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_30
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1735
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f4b51e2ed073880800000000000000
+      internalID: -8631414892737638636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_31
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1738
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8162958756941b580800000000000000
+      internalID: -8813182295627717096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_32
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1740
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eb25fbe3b2f0b90800000000000000
+      internalID: -7273547324682224036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_33
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1742
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc90032a449407a20800000000000000
+      internalID: 3058024706112227787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_34
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1727
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916c51ea642278d00800000000000000
+      internalID: 974785531312719385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_35
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1736
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9be9f24c3eaeca60800000000000000
+      internalID: 7696280387067702175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_36
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1735
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5b4e503c2d55f20800000000000000
+      internalID: 3410864027862349221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_37
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1738
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b2f3338e0ff2120800000000000000
+      internalID: 2391394807239879524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_38
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1738
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c535863dd0d84b0800000000000000
+      internalID: -5436673973526766485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_39
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1738
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9feb9a6994242bbd0800000000000000
+      internalID: -2615955549721084167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_40
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1735
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98cdf82254d7a280800000000000000
+      internalID: -9032017078328112997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_41
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1736
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e9a5fe567644b50800000000000000
+      internalID: 6576495043372817963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_42
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1739
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e63fcadd108d0fe0800000000000000
+      internalID: -1221179058234116383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_43
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1741
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49915c9f8ea0a8b20800000000000000
+      internalID: 3137332086156106132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_44
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1739
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c651141dab777b150800000000000000
+      internalID: 5888306682068538732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_45
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 1737
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466bc913c56a94750800000000000000
+      internalID: 6289741269499164260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_46
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1735
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7638c6b01c2d8d7a0800000000000000
+      internalID: -6352095547843902617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_47
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1738
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1851422d89986030800000000000000
+      internalID: 3488206742842595356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_48
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 1737
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a6ba344af855ca0800000000000000
+      internalID: -6028754590492825043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_49
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1738
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985d764eb4ce13090800000000000000
+      internalID: -8056398447690394231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_50
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1741
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc01b643280e93640800000000000000
+      internalID: 5060322506157265103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_51
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1736
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e8d5798108c7570800000000000000
+      internalID: 8465782242656751240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_52
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 1733
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2fc44eed03d8e10800000000000000
+      internalID: 2201469526725161664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_53
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 1734
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcb77925932a6f30800000000000000
+      internalID: 4569503895473601744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_54
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 1737
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8671d026cf8b6b0800000000000000
+      internalID: -5280193065035274079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_55
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 1733
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4fe75892c68c4b0800000000000000
+      internalID: -5419963225951243016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_56
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 1737
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7296518bbe810a0800000000000000
+      internalID: -6910514452334303318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_57
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 1738
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77b97d4942b3d070800000000000000
+      internalID: 8130037780236056444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_58
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 1739
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24f49a4a5ea6b260800000000000000
+      internalID: 7113064364299842604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_59
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 1737
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebc537d343595ea0800000000000000
+      internalID: -5883579887344301085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_60
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 1741
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226c920981a7f1460800000000000000
+      internalID: 7214619373987284514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_61
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 1737
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2465243b7d53430800000000000000
+      internalID: 3762150228649984723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_62
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1734
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0af38fe0d770840800000000000000
+      internalID: 5190254598815719667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_63
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 1737
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd58e57220cfe65e0800000000000000
+      internalID: -1914315705405241891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_64
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 1738
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d4bae593a40a390800000000000000
+      internalID: -7809160143598563949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_65
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 1737
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc8992a8e495b750800000000000000
+      internalID: 6320121378965654719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_66
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 1739
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98169025d426f7210800000000000000
+      internalID: 1332892098953306505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_67
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1735
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0237bd0582cbcc0800000000000000
+      internalID: -3694033266606399311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_68
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 1739
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cec85a4fe923ee0800000000000000
+      internalID: -1282788170260485105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_69
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 1734
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95baeefc56365ab00800000000000000
+      internalID: 839186194505837401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_70
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 1739
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7960a452df298d610800000000000000
+      internalID: 1646227279753905815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_71
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 1737
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed80696279beba160800000000000000
+      internalID: 7037977877116487902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1733
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28fb4fb298754520800000000000000
+      internalID: 2685685324466354223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_73
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1734
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d519b837638095a30800000000000000
+      internalID: 4204400757086851421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1734
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a467593f09c7fc0800000000000000
+      internalID: -3495759834887337393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_75
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1731
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183701f900cf56390800000000000000
+      internalID: -7825571697887513727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_76
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1731
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffdd24f9ab95cf80800000000000000
+      internalID: -8086886401625432071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_77
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1733
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d744e7dcadda0f0b0800000000000000
+      internalID: -5696862373361597315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_78
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1733
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394405831f79bba90800000000000000
+      internalID: -7297071708936059757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_79
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1726
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4a2f3acf422ba20800000000000000
+      internalID: 3076562162948416703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_80
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1723
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b6e48deee0d2770800000000000000
+      internalID: 8587536483459427112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_81
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1732
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7446bf519505efb90800000000000000
+      internalID: -7206234010195106745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_82
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1733
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa2e8bee8efdd210800000000000000
+      internalID: 1359522552326531826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_83
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1732
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e046a1e9dbf05c0800000000000000
+      internalID: -4246967436841841087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_84
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1730
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0402606b55c0c1f20800000000000000
+      internalID: 3394601781396119616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_85
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1735
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c6f743c033c92f0800000000000000
+      internalID: -964840092650738621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_86
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1734
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c546e14ebe59b1e70800000000000000
+      internalID: 9087021513527157852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_87
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1734
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6caef16426f6a60800000000000000
+      internalID: 7669456743757956843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_88
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1732
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebec846a395b69260800000000000000
+      internalID: 7104065107978145470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_89
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1733
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7f3ff894f07caa0800000000000000
+      internalID: -6140922758274222097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_90
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1731
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fc670e74e158300800000000000000
+      internalID: 253642248073695092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_91
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1735
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a6909652e1321d0800000000000000
+      internalID: -3376822149572892155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_92
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1736
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1a55af1486d5d30800000000000000
+      internalID: 4421805041729773991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_93
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1733
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77903be5efdae25b0800000000000000
+      internalID: -5391180395893814921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_94
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1734
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33898616363daff60800000000000000
+      internalID: 8068994106177132595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_95
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1735
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3954462462113df10800000000000000
+      internalID: 2293195491282011539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_96
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1735
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463a398f6ee023400800000000000000
+      internalID: 302320510162936676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_97
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1728
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193ab453e099828c0800000000000000
+      internalID: -4023797980752796783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_98
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1734
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bbdb24f8ee24100800000000000000
+      internalID: 90897241568295781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_99
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1733
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe747a47e2e33cf0800000000000000
+      internalID: -273625669324996870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_100
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1734
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c59a1639d1ec10800000000000000
+      internalID: 2081183329219363435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_101
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1733
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bb14516768dec40800000000000000
+      internalID: 5543234558083840806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_102
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1733
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e419904d436df6c0800000000000000
+      internalID: -4108018101644618519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_103
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1735
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f3d9bd730ee1850800000000000000
+      internalID: 6349759055151316801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_104
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1733
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff99cc071a0f43380800000000000000
+      internalID: -8992297979779180033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_105
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1734
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad7a798bf1944120800000000000000
+      internalID: 2397201411197271460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_106
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1734
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8746394c5f467f0800000000000000
+      internalID: -620100624035055375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_107
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1731
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54a6bc0d43d07270800000000000000
+      internalID: 8246323245594616923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_108
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 1732
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb20f5e96c181c8a0800000000000000
+      internalID: -6286600914771967301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_109
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1736
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c931412e304afa900800000000000000
+      internalID: 697956803850539932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_110
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1733
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033a70b02f8d1a870800000000000000
+      internalID: 8692467289880503088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_111
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1733
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6073ff3aefc644500800000000000000
+      internalID: 379548109534869254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_112
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 1731
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad47f7c3f0114ea60800000000000000
+      internalID: 7702300019847558362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_113
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1735
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404ad786e91236af0800000000000000
+      internalID: -404442577291598844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_114
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 1734
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5839aaf5ed9b7c150800000000000000
+      internalID: 5892883002176476037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_115
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1731
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fc8cf454d867e00800000000000000
+      internalID: 1042175692613668721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_116
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 1732
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b55c05893a44720800000000000000
+      internalID: 2829566340480981882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_117
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1731
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7337fbed5cd4b38e0800000000000000
+      internalID: -1712689721043356873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_118
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1734
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3019aeeb50b6eb190800000000000000
+      internalID: -7944795020212924157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_119
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 1735
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaef71c40a618cb0800000000000000
+      internalID: -4863489553924625693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_120
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1726
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf2186ef4c9f9fa0800000000000000
+      internalID: -5791738728791593023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_121
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 1728
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a5424a4800aab90800000000000000
+      internalID: -7229965682100381116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_122
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 1735
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869c8caa6c5c2c060800000000000000
+      internalID: 6972352630182431080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_123
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 1724
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418d5fa7d6ee13020800000000000000
+      internalID: 2319897437054294036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_124
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1735
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f06053180fb17b0800000000000000
+      internalID: -5252340102666514667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_125
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 1726
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7cc5602a6fe9800800000000000000
+      internalID: 621204974375585721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_126
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1732
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2640bc0ae1bb9070800000000000000
+      internalID: 8114274772431423021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_127
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 1731
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846fc5173dfa571b0800000000000000
+      internalID: -5659424034046282168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_128
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 1731
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7edc5c44d8878d40800000000000000
+      internalID: 5586584308171988604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_129
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 1734
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ed25ca5f12421f0800000000000000
+      internalID: -1070693472365519327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_130
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 1734
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc6b3a3d58607f50800000000000000
+      internalID: 6877111380612967624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_131
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 1735
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735d4fba36b712790800000000000000
+      internalID: -7556623031734053577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_132
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 1735
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180ceece2cfea82d0800000000000000
+      internalID: -3275542158480850815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_133
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 1734
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268905c38f9c326e0800000000000000
+      internalID: -1863423752800266142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_134
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 1734
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f00ac14b16a0200800000000000000
+      internalID: 147037364045221735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_135
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1732
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b286f202e1fa7f4c0800000000000000
+      internalID: -4253738779104286677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_136
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 1735
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa0a3f2cc69e1350800000000000000
+      internalID: 5989390358159166201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreground gradient_137
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 1736
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a94f514ae27cc00800000000000000
+      internalID: 920755931098421817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      foreground gradient_0: -2419097854591538884
+      foreground gradient_1: -8699094581985155137
+      foreground gradient_10: -1490502339059824986
+      foreground gradient_100: 2081183329219363435
+      foreground gradient_101: 5543234558083840806
+      foreground gradient_102: -4108018101644618519
+      foreground gradient_103: 6349759055151316801
+      foreground gradient_104: -8992297979779180033
+      foreground gradient_105: 2397201411197271460
+      foreground gradient_106: -620100624035055375
+      foreground gradient_107: 8246323245594616923
+      foreground gradient_108: -6286600914771967301
+      foreground gradient_109: 697956803850539932
+      foreground gradient_11: 6927764775076276683
+      foreground gradient_110: 8692467289880503088
+      foreground gradient_111: 379548109534869254
+      foreground gradient_112: 7702300019847558362
+      foreground gradient_113: -404442577291598844
+      foreground gradient_114: 5892883002176476037
+      foreground gradient_115: 1042175692613668721
+      foreground gradient_116: 2829566340480981882
+      foreground gradient_117: -1712689721043356873
+      foreground gradient_118: -7944795020212924157
+      foreground gradient_119: -4863489553924625693
+      foreground gradient_12: 2037007518670023013
+      foreground gradient_120: -5791738728791593023
+      foreground gradient_121: -7229965682100381116
+      foreground gradient_122: 6972352630182431080
+      foreground gradient_123: 2319897437054294036
+      foreground gradient_124: -5252340102666514667
+      foreground gradient_125: 621204974375585721
+      foreground gradient_126: 8114274772431423021
+      foreground gradient_127: -5659424034046282168
+      foreground gradient_128: 5586584308171988604
+      foreground gradient_129: -1070693472365519327
+      foreground gradient_13: -7662738183247314608
+      foreground gradient_130: 6877111380612967624
+      foreground gradient_131: -7556623031734053577
+      foreground gradient_132: -3275542158480850815
+      foreground gradient_133: -1863423752800266142
+      foreground gradient_134: 147037364045221735
+      foreground gradient_135: -4253738779104286677
+      foreground gradient_136: 5989390358159166201
+      foreground gradient_137: 920755931098421817
+      foreground gradient_14: 7762494157371728239
+      foreground gradient_15: 8351432431523935757
+      foreground gradient_16: -3474501316047272340
+      foreground gradient_17: -7586568609494178386
+      foreground gradient_18: -2469474206822244292
+      foreground gradient_19: -2561643005778697502
+      foreground gradient_2: -6150871824499168686
+      foreground gradient_20: 2461155181229055607
+      foreground gradient_21: 5787350906602421984
+      foreground gradient_22: -6872451550322482139
+      foreground gradient_23: 200674774113907207
+      foreground gradient_24: 58294153575037204
+      foreground gradient_25: 2740835389425232410
+      foreground gradient_26: -2514883101328195202
+      foreground gradient_27: 4935101974758590980
+      foreground gradient_28: 6430624278069512184
+      foreground gradient_29: 2863893264361995020
+      foreground gradient_3: 5788738673809936145
+      foreground gradient_30: -8631414892737638636
+      foreground gradient_31: -8813182295627717096
+      foreground gradient_32: -7273547324682224036
+      foreground gradient_33: 3058024706112227787
+      foreground gradient_34: 974785531312719385
+      foreground gradient_35: 7696280387067702175
+      foreground gradient_36: 3410864027862349221
+      foreground gradient_37: 2391394807239879524
+      foreground gradient_38: -5436673973526766485
+      foreground gradient_39: -2615955549721084167
+      foreground gradient_4: -1960367784514909862
+      foreground gradient_40: -9032017078328112997
+      foreground gradient_41: 6576495043372817963
+      foreground gradient_42: -1221179058234116383
+      foreground gradient_43: 3137332086156106132
+      foreground gradient_44: 5888306682068538732
+      foreground gradient_45: 6289741269499164260
+      foreground gradient_46: -6352095547843902617
+      foreground gradient_47: 3488206742842595356
+      foreground gradient_48: -6028754590492825043
+      foreground gradient_49: -8056398447690394231
+      foreground gradient_5: -6629898713110957337
+      foreground gradient_50: 5060322506157265103
+      foreground gradient_51: 8465782242656751240
+      foreground gradient_52: 2201469526725161664
+      foreground gradient_53: 4569503895473601744
+      foreground gradient_54: -5280193065035274079
+      foreground gradient_55: -5419963225951243016
+      foreground gradient_56: -6910514452334303318
+      foreground gradient_57: 8130037780236056444
+      foreground gradient_58: 7113064364299842604
+      foreground gradient_59: -5883579887344301085
+      foreground gradient_6: -2740549319789914234
+      foreground gradient_60: 7214619373987284514
+      foreground gradient_61: 3762150228649984723
+      foreground gradient_62: 5190254598815719667
+      foreground gradient_63: -1914315705405241891
+      foreground gradient_64: -7809160143598563949
+      foreground gradient_65: 6320121378965654719
+      foreground gradient_66: 1332892098953306505
+      foreground gradient_67: -3694033266606399311
+      foreground gradient_68: -1282788170260485105
+      foreground gradient_69: 839186194505837401
+      foreground gradient_7: -5890619392554403019
+      foreground gradient_70: 1646227279753905815
+      foreground gradient_71: 7037977877116487902
+      foreground gradient_72: 2685685324466354223
+      foreground gradient_73: 4204400757086851421
+      foreground gradient_74: -3495759834887337393
+      foreground gradient_75: -7825571697887513727
+      foreground gradient_76: -8086886401625432071
+      foreground gradient_77: -5696862373361597315
+      foreground gradient_78: -7297071708936059757
+      foreground gradient_79: 3076562162948416703
+      foreground gradient_8: 7870026120239875506
+      foreground gradient_80: 8587536483459427112
+      foreground gradient_81: -7206234010195106745
+      foreground gradient_82: 1359522552326531826
+      foreground gradient_83: -4246967436841841087
+      foreground gradient_84: 3394601781396119616
+      foreground gradient_85: -964840092650738621
+      foreground gradient_86: 9087021513527157852
+      foreground gradient_87: 7669456743757956843
+      foreground gradient_88: 7104065107978145470
+      foreground gradient_89: -6140922758274222097
+      foreground gradient_9: -5304428244141108811
+      foreground gradient_90: 253642248073695092
+      foreground gradient_91: -3376822149572892155
+      foreground gradient_92: 4421805041729773991
+      foreground gradient_93: -5391180395893814921
+      foreground gradient_94: 8068994106177132595
+      foreground gradient_95: 2293195491282011539
+      foreground gradient_96: 302320510162936676
+      foreground gradient_97: -4023797980752796783
+      foreground gradient_98: 90897241568295781
+      foreground gradient_99: -273625669324996870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
