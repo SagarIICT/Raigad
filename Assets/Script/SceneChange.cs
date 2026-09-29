@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class SceneChange : MonoBehaviour
 {
-    
+    public Animator CloudAnimator;
     void Start()
     {
         
@@ -26,7 +26,10 @@ public class SceneChange : MonoBehaviour
     }
     public void GoForward()
     {
+        Debug.Log("Next");
+        //CloudAnimator.SetTrigger("In");
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        
 
     }
     

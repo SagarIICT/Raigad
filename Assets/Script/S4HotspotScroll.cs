@@ -1,47 +1,43 @@
-using System.Collections;
 using UnityEngine;
 
 public class S4HotspotScroll : MonoBehaviour
 {
     public Animator scrollAnimator;
+
     public Animator GradientUpAnimator;
     public Animator GradientDownAnimator;
 
     public GameObject Gradient;
     public GameObject ScrollOpen;
-    public GameObject ScrollClose;
+    public GameObject CloseButton;
+    
 
-    // OPEN SCROLL
+
+    // OPEN SCROLL + GRADIENT
     public void OpenScroll()
     {
         ScrollOpen.SetActive(true);
-        ScrollClose.SetActive(false);
+        
 
-        StartCoroutine(PlayOpenAnimation());
-    }
-
-    IEnumerator PlayOpenAnimation()
-    {
-        yield return null;
-
+        Gradient.SetActive(true);
+        scrollAnimator.ResetTrigger("CloseScroll");
         scrollAnimator.SetTrigger("OpenScroll");
+        CloseButton.SetActive(true);
+
     }
 
-    // CLOSE SCROLL
+
+    // CLOSE SCROLL + GRADIENT
     public void CloseScroll()
     {
+       
+        scrollAnimator.ResetTrigger("OpenScroll");
         scrollAnimator.SetTrigger("CloseScroll");
 
-        StartCoroutine(HideScrollAfterAnimation());
+        Gradient.SetActive(false);
+        CloseButton.SetActive(false);
     }
 
-    IEnumerator HideScrollAfterAnimation()
-    {
-        yield return new WaitForSeconds(0.5f);
-
-        ScrollOpen.SetActive(false);
-        ScrollClose.SetActive(true);
-    }
 
     // GRADIENT UP
     public void GradientUp()
@@ -49,11 +45,13 @@ public class S4HotspotScroll : MonoBehaviour
         GradientUpAnimator.SetTrigger("Up");
     }
 
+
     // GRADIENT DOWN
     public void GradientDown()
     {
         GradientDownAnimator.SetTrigger("Down");
     }
+
 
     // TURN OFF GRADIENT
     public void GradientOff()
@@ -61,17 +59,27 @@ public class S4HotspotScroll : MonoBehaviour
         Gradient.SetActive(false);
     }
 
+
     // SCROLL ACTIVE
     public void ScrollActive()
     {
         ScrollOpen.SetActive(true);
-        ScrollClose.SetActive(false);
+        
     }
+
 
     // SCROLL OFF
     public void ScrollOff()
     {
         ScrollOpen.SetActive(false);
-        ScrollClose.SetActive(true);
+      
+    }
+    public void OpenAnimatinComp()
+    {
+        scrollAnimator.SetBool("IsOpen", true);
+    }
+    public void CloseAnimatinComp()
+    {
+        scrollAnimator.SetBool("IsOpen", false);
     }
 }

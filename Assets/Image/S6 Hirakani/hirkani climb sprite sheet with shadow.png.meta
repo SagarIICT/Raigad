@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: d47f1edf3a0b2fa47a0ff1b8894dc2df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5997304372211545636
+    second: hirkani climb sprite sheet with shadow_0
+  - first:
+      213: -3552345037031989228
+    second: hirkani climb sprite sheet with shadow_1
+  - first:
+      213: -2691108188433405179
+    second: hirkani climb sprite sheet with shadow_2
+  - first:
+      213: -6513266715364690890
+    second: hirkani climb sprite sheet with shadow_3
+  - first:
+      213: 9212467281465928151
+    second: hirkani climb sprite sheet with shadow_4
+  - first:
+      213: 4683333838876519104
+    second: hirkani climb sprite sheet with shadow_5
+  - first:
+      213: -2891558506283173402
+    second: hirkani climb sprite sheet with shadow_6
+  - first:
+      213: 2325048788960211275
+    second: hirkani climb sprite sheet with shadow_7
+  - first:
+      213: -4750104789201952552
+    second: hirkani climb sprite sheet with shadow_8
+  - first:
+      213: 427487281306327371
+    second: hirkani climb sprite sheet with shadow_9
+  - first:
+      213: -8595456118837074532
+    second: hirkani climb sprite sheet with shadow_10
+  - first:
+      213: 1092969423810259625
+    second: hirkani climb sprite sheet with shadow_11
+  - first:
+      213: -5919995098712691843
+    second: hirkani climb sprite sheet with shadow_12
+  - first:
+      213: -997920189749127209
+    second: hirkani climb sprite sheet with shadow_13
+  - first:
+      213: 2961249621683067599
+    second: hirkani climb sprite sheet with shadow_14
+  - first:
+      213: 1830528756062635537
+    second: hirkani climb sprite sheet with shadow_15
+  - first:
+      213: -4166272648069419984
+    second: hirkani climb sprite sheet with shadow_16
+  - first:
+      213: -6105329990907061571
+    second: hirkani climb sprite sheet with shadow_17
+  - first:
+      213: -1842500238907052366
+    second: hirkani climb sprite sheet with shadow_18
+  - first:
+      213: 4287858835564218965
+    second: hirkani climb sprite sheet with shadow_19
+  - first:
+      213: 83410434773889130
+    second: hirkani climb sprite sheet with shadow_20
+  - first:
+      213: 379499774125521393
+    second: hirkani climb sprite sheet with shadow_21
+  - first:
+      213: 7106210803340149824
+    second: hirkani climb sprite sheet with shadow_22
+  - first:
+      213: 1697395377590646192
+    second: hirkani climb sprite sheet with shadow_23
+  - first:
+      213: 8690860970618117649
+    second: hirkani climb sprite sheet with shadow_24
+  - first:
+      213: 2012768178120382680
+    second: hirkani climb sprite sheet with shadow_25
+  - first:
+      213: 8827107373511071995
+    second: hirkani climb sprite sheet with shadow_26
+  - first:
+      213: -1870082323133818532
+    second: hirkani climb sprite sheet with shadow_27
+  - first:
+      213: 1752622219604448022
+    second: hirkani climb sprite sheet with shadow_28
+  - first:
+      213: -7382042107293121029
+    second: hirkani climb sprite sheet with shadow_29
+  - first:
+      213: -4090319865004764912
+    second: hirkani climb sprite sheet with shadow_30
+  - first:
+      213: 5026372379978796386
+    second: hirkani climb sprite sheet with shadow_31
+  - first:
+      213: 659037134987019545
+    second: hirkani climb sprite sheet with shadow_32
+  - first:
+      213: 5308189275401541279
+    second: hirkani climb sprite sheet with shadow_33
+  - first:
+      213: 3372625731335734944
+    second: hirkani climb sprite sheet with shadow_34
+  - first:
+      213: 1483873883098012832
+    second: hirkani climb sprite sheet with shadow_35
+  - first:
+      213: 66049908356691689
+    second: hirkani climb sprite sheet with shadow_36
+  - first:
+      213: 6451261717374271901
+    second: hirkani climb sprite sheet with shadow_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hirkani climb sprite sheet with shadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3144
+        width: 1151
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd90f64d27b45cca0800000000000000
+      internalID: -5997304372211545636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hirkani climb sprite sheet with shadow_1
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 3144
+        width: 1151
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410261c820983bec0800000000000000
+      internalID: -3552345037031989228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hirkani climb sprite sheet with shadow_2
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 3144
+        width: 1151
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b28485c5347aad0800000000000000
+      internalID: -2691108188433405179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hirkani climb sprite sheet with shadow_3
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 3144
+        width: 1151
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634ff4f5e6a3c95a0800000000000000
+      internalID: -6513266715364690890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hirkani climb sprite sheet with shadow_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1573
+        width: 1151
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d96fa8ce2249df70800000000000000
+      internalID: 9212467281465928151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hirkani climb sprite sheet with shadow_5
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1573
+        width: 1151
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca2dc6205b8ef040800000000000000
+      internalID: 4683333838876519104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hirkani climb sprite sheet with shadow_6
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 1573
+        width: 1151
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e97bb1dbde1fd7d0800000000000000
+      internalID: -2891558506283173402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hirkani climb sprite sheet with shadow_7
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 1573
+        width: 1151
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41fc6f0e8b344020800000000000000
+      internalID: 2325048788960211275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hirkani climb sprite sheet with shadow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 1151
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d06cb18cdc341eb0800000000000000
+      internalID: -4750104789201952552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hirkani climb sprite sheet with shadow_9
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2
+        width: 1151
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49d24cda6dbee500800000000000000
+      internalID: 427487281306327371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hirkani climb sprite sheet with shadow_10
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 2
+        width: 1151
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95224a533ec6b880800000000000000
+      internalID: -8595456118837074532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 58c1011fbd92d984c8c8388060b49e77
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":3.0},"gridSpriteSize":{"x":1151.0,"y":1571.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      hirkani climb sprite sheet with shadow_0: -5997304372211545636
+      hirkani climb sprite sheet with shadow_1: -3552345037031989228
+      hirkani climb sprite sheet with shadow_10: -8595456118837074532
+      hirkani climb sprite sheet with shadow_2: -2691108188433405179
+      hirkani climb sprite sheet with shadow_3: -6513266715364690890
+      hirkani climb sprite sheet with shadow_4: 9212467281465928151
+      hirkani climb sprite sheet with shadow_5: 4683333838876519104
+      hirkani climb sprite sheet with shadow_6: -2891558506283173402
+      hirkani climb sprite sheet with shadow_7: 2325048788960211275
+      hirkani climb sprite sheet with shadow_8: -4750104789201952552
+      hirkani climb sprite sheet with shadow_9: 427487281306327371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

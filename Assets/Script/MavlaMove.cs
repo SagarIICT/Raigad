@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class MavlaMove : MonoBehaviour
 {
-    public Rigidbody2D Body;
+    public Rigidbody2D body;
     public float speed = 5f;
 
     private Vector2 finalSpeed;
@@ -15,6 +15,6 @@ public class MavlaMove : MonoBehaviour
 
         finalSpeed = new Vector2(x, 0);
 
-        Body.linearVelocity = finalSpeed * speed;
+        body.linearVelocity = finalSpeed * speed;
     }
 }

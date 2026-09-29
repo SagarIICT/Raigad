@@ -1,29 +1,21 @@
-using UnityEngine;
+//using UnityEngine;
 
-public class MavlaMove1 : MonoBehaviour
-{
-    public Rigidbody2D Body;
-    public float speed = 5f;
+//public class MenuParallax : MonoBehaviour
+//{
+//    public float offsetMultiplier = 1f;
+//    public float smoothTime = .3f;
 
-    private Vector2 finalSpeed;
-    public SpriteRenderer sr;
+//    private Vector2 startPosition;
+//    private Vector3 velocity;
 
-    void Update()
-    {
-        float x = Input.GetAxisRaw("Horizontal");
-        //float y = Input.GetAxisRaw("Vertical");
+//    private void Start()
+//    {
+//        startPosition = transform.position;
+//    }
 
-        finalSpeed = new Vector2(x, 0);
-
-        Body.linearVelocity = finalSpeed * speed;
-
-        if (x < 0f)
-        {
-            sr.flipX = true;
-        }
-        else if (x > 0f)
-        {
-            sr.flipX = false;
-        }
-    }
-}
+//    private void Update()
+//    {
+//        Vector2 offset = Camera.main.ScreenToViewportPoint(Input.mousePosition);
+//        transform.position = Vector3.SmoothDamp(transform.position, startPosition + (offset * offsetMultiplier), ref velocity, smoothTime);
+//    }
+//}

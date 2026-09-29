@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cb1c736f99df3de43bd44b8629ff1cc3
+guid: 3a7dd258ef1043e40931f93ac15ce12b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2642661293242698688
-    second: cliff seamless_0
+      213: -1221104097012331193
+    second: cloud trassition (2)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,13 +46,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 330, z: 0, w: 268}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -115,23 +115,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cliff seamless_0
+      name: cloud trassition (2)_0
       rect:
         serializedVersion: 2
-        x: 111
-        y: 185
-        width: 1937
-        height: 5235
+        x: 19
+        y: 30
+        width: 1741
+        height: 819
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 04438922e81635bd0800000000000000
-      internalID: -2642661293242698688
+      spriteID: 74d4ecf1b44cd0fe0800000000000000
+      internalID: -1221104097012331193
       vertices: []
       indices: 
       edges: []
@@ -140,8 +140,8 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    spriteID: 
+    internalID: 0
     vertices: []
     indices: 
     edges: []
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      cliff seamless_0: -2642661293242698688
+      cloud trassition (2)_0: -1221104097012331193
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
