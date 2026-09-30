@@ -29,10 +29,13 @@ public class SceneChange : MonoBehaviour
         Debug.Log("Next");
         //CloudAnimator.SetTrigger("In");
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-        
-
     }
-    
+    public void ExplorerModeButton()
+    {
+        SceneManager.LoadScene("S4 Maha Darwaja");
+    }
+
+
 }
 
 
