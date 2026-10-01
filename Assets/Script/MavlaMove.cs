@@ -4,6 +4,8 @@ public class MavlaMove : MonoBehaviour
 {
     public Rigidbody2D body;
     public float speed = 5f;
+    public SpriteRenderer spriteRenderer;
+    public Animator animator;
 
     private Vector2 finalSpeed;
     public SpriteRenderer sr;
@@ -16,5 +18,21 @@ public class MavlaMove : MonoBehaviour
         finalSpeed = new Vector2(x, 0);
 
         body.linearVelocity = finalSpeed * speed;
+
+        if (Input.GetKey(KeyCode.A))
+        {
+            animator.SetBool("IsWalking", true);
+            spriteRenderer.flipX = true;
+        }
+        else if (Input.GetKey(KeyCode.D))
+        {
+            animator.SetBool("IsWalking", true);
+            spriteRenderer.flipX = false;
+        }
+        else
+        {
+            animator.SetBool("IsWalking", false);
+        }
+
     }
 }
