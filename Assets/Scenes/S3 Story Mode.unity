@@ -460,6 +460,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13e966ae55e17f1458af31243d781024, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneChange
+  CloudAnimator: {fileID: 0}
 --- !u!114 &839001024
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -472,6 +473,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13e966ae55e17f1458af31243d781024, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneChange
+  CloudAnimator: {fileID: 0}
 --- !u!1 &1158883449
 GameObject:
   m_ObjectHideFlags: 0

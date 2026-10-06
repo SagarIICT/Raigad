@@ -39,18 +39,18 @@ public class S4HotspotScroll : MonoBehaviour
     }
 
 
-    // GRADIENT UP
-    public void GradientUp()
-    {
-        GradientUpAnimator.SetTrigger("Up");
-    }
+    //// GRADIENT UP
+    //public void GradientUp()
+    //{
+    //    GradientUpAnimator.SetTrigger("Up");
+    //}
 
 
-    // GRADIENT DOWN
-    public void GradientDown()
-    {
-        GradientDownAnimator.SetTrigger("Down");
-    }
+    //// GRADIENT DOWN
+    //public void GradientDown()
+    //{
+    //    GradientDownAnimator.SetTrigger("Down");
+    //}
 
 
     // TURN OFF GRADIENT
