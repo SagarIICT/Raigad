@@ -13,12 +13,7 @@ public class TextAppear : MonoBehaviour
 
         Invoke("StartTyping", 1f);
     }
-    public void HideText()
-    {
-        TextActive.SetActive(false);
-
-       
-    }
+    
 
     void StartTyping()
     {
