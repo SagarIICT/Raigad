@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine;
 
 public class S4HotspotScroll : MonoBehaviour
 {
@@ -10,14 +11,14 @@ public class S4HotspotScroll : MonoBehaviour
     public GameObject Gradient;
     public GameObject ScrollOpen;
     public GameObject CloseButton;
-    
+
 
 
     // OPEN SCROLL + GRADIENT
     public void OpenScroll()
     {
         ScrollOpen.SetActive(true);
-        
+
 
         Gradient.SetActive(true);
         scrollAnimator.ResetTrigger("CloseScroll");
@@ -30,7 +31,7 @@ public class S4HotspotScroll : MonoBehaviour
     // CLOSE SCROLL + GRADIENT
     public void CloseScroll()
     {
-       
+
         scrollAnimator.ResetTrigger("OpenScroll");
         scrollAnimator.SetTrigger("CloseScroll");
 
@@ -64,7 +65,7 @@ public class S4HotspotScroll : MonoBehaviour
     public void ScrollActive()
     {
         ScrollOpen.SetActive(true);
-        
+
     }
 
 
@@ -72,7 +73,7 @@ public class S4HotspotScroll : MonoBehaviour
     public void ScrollOff()
     {
         ScrollOpen.SetActive(false);
-      
+
     }
     public void OpenAnimatinComp()
     {

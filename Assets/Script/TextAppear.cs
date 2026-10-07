@@ -6,6 +6,7 @@ public class TextAppear : MonoBehaviour
 {
     public GameObject TextActive;
     public TMP_Text text;
+    public bool isTextAnim = false;
 
     public void ShowText()
     {
@@ -16,14 +17,18 @@ public class TextAppear : MonoBehaviour
     public void HideText()
     {
         TextActive.SetActive(false);
+        text.text = "";
 
-       
     }
 
 
     void StartTyping()
     {
-        StartCoroutine(TypeText("Raigad — The proud capital of the Maratha Empire and the royal seat of Chhatrapati Shivaji Maharaj."));
+        if (!isTextAnim)
+        {
+            StartCoroutine(TypeText("Raigad — The proud capital of the Maratha Empire and the royal seat of Chhatrapati Shivaji Maharaj."));
+            isTextAnim = true;
+        }
     }
 
     IEnumerator TypeText(string message)
@@ -33,7 +38,10 @@ public class TextAppear : MonoBehaviour
         foreach (char letter in message)
         {
             text.text += letter;
-            yield return new WaitForSeconds(0.1f);
+            yield return new WaitForSeconds(0.01f);
+
         }
+        isTextAnim = false;
+        Debug.Log("Animation Complet");
     }
 }

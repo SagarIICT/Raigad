@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 6837672864478584698}
   m_Layer: 0
   m_Name: Mavla
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29,9 +29,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1637252596686318696}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -6.774086, y: -14.7, z: 0}
-  m_LocalScale: {x: 3.3524137, y: 3.3524137, z: 3.3524137}
+  m_LocalScale: {x: 0.203094, y: 0.203094, z: 0.203094}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -85,9 +85,9 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -1679133731146560894, guid: 08eab4a1166799646b79a1c9c4ab6c58, type: 3}
+  m_Sprite: {fileID: 2339176760461815125, guid: 3ae6c104050c3654ab9a5320a386d1f2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 3.6299996, y: 5.8369236}
@@ -111,7 +111,7 @@ Rigidbody2D:
   m_Mass: 0.0001
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 0
+  m_GravityScale: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -161,7 +161,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.6299996, y: 5.8369236}
+    oldSize: {x: 3.96, y: 5.83}
     newSize: {x: 3.6299996, y: 5.8369236}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -181,8 +181,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6803ac90d58fa249b39fd70567d8b1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MavlaMove
-  Body: {fileID: 8272017784419201368}
-  speed: 5
+  body: {fileID: 8272017784419201368}
+  speed: 1
+  spriteRenderer: {fileID: 6413967866156890926}
+  animator: {fileID: 6837672864478584698}
+  camera: {fileID: 0}
+  pointA: {fileID: 0}
+  pointB: {fileID: 0}
   sr: {fileID: 6413967866156890926}
 --- !u!95 &6837672864478584698
 Animator:

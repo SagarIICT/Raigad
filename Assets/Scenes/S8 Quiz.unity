@@ -516,6 +516,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13e966ae55e17f1458af31243d781024, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneChange
+  CloudAnimatorLeft: {fileID: 0}
+  CloudAnimatorRight: {fileID: 0}
 --- !u!1 &466038690
 GameObject:
   m_ObjectHideFlags: 0
@@ -832,7 +834,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -1554
+      value: -1571
       objectReference: {fileID: 0}
     - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -912,6 +914,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13e966ae55e17f1458af31243d781024, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneChange
+  CloudAnimatorLeft: {fileID: 0}
+  CloudAnimatorRight: {fileID: 0}
 --- !u!1 &878421071
 GameObject:
   m_ObjectHideFlags: 0
