@@ -3,7 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class SceneChange : MonoBehaviour
 {
-    public Animator CloudAnimator;
+    public Animator CloudAnimatorLeft;
+    public Animator CloudAnimatorRight;
     void Start()
     {
         
@@ -32,7 +33,10 @@ public class SceneChange : MonoBehaviour
     }
     public void ExplorerModeButton()
     {
-        SceneManager.LoadScene("S4 Maha Darwaja");
+        
+        CloudAnimatorLeft.SetTrigger("Cloud left in");
+        CloudAnimatorRight.SetTrigger("Cloud Right In");
+        //SceneManager.LoadScene("S4 Maha Darwaja");
     }
 
 
