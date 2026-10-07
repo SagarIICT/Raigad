@@ -36,7 +36,11 @@ public class SceneChange : MonoBehaviour
         
         CloudAnimatorLeft.SetTrigger("Cloud left in");
         CloudAnimatorRight.SetTrigger("Cloud Right In");
-        //SceneManager.LoadScene("S4 Maha Darwaja");
+        Invoke(nameof(LoadMahaDarwaja), 2f);
+    }
+    void LoadMahaDarwaja()
+    {
+        SceneManager.LoadScene("S4 Maha Darwaja");
     }
 
 
