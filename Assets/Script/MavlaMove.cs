@@ -1,4 +1,3 @@
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -6,55 +5,77 @@ public class MavlaMove : MonoBehaviour
 {
     public Rigidbody2D body;
     public float speed = 5f;
+
     public SpriteRenderer spriteRenderer;
     public Animator animator;
     public GameObject camera;
 
-    private float distance;
-    private float currentDistance;
-
     public GameObject pointA;
     public GameObject pointB;
+    public GameObject pointC;
+    public GameObject pointD;
 
     private Vector2 finalSpeed;
-    public SpriteRenderer sr;
 
-     void Start()
+    void Start()
     {
         if (SceneManager.GetActiveScene().name == "S5 Raj Sadar")
         {
-           
-        distance = Vector3.Distance(pointA.transform.position, pointB.transform.position);
+            Camera.main.orthographicSize = 28.5f;
         }
-
     }
+
     void Update()
     {
-
         if (SceneManager.GetActiveScene().name == "S5 Raj Sadar")
         {
-            currentDistance = Vector3.Distance(body.transform.position, pointB.transform.position);
-            //Debug.Log("Distance:" + currentDistance);
-            float distanceRatio = currentDistance / distance;
-            //Debug.Log("DistanceRatio " + DistanceRatio);
-            float cameraSize = Mathf.Lerp(45f, 28.5f, distanceRatio);
-            Debug.Log("Zoom Level " + Mathf.Lerp(45f, 28.5f, distanceRatio));
+            float playerX = body.transform.position.x;
 
+            float A = pointA.transform.position.x;
+            float B = pointB.transform.position.x;
+            float C = pointC.transform.position.x;
+            float D = pointD.transform.position.x;
 
-            if (body.gameObject.transform.position.x < pointB.transform.position.x)
+            // A → B : 28.5 → 45
+            if (playerX >= A && playerX <= B)
             {
-                //Camera.main.orthographicSize = 45;
-                Camera.main.orthographicSize = cameraSize;
+                float t = Mathf.InverseLerp(A, B, playerX);
+
+                Camera.main.orthographicSize =
+                    Mathf.Lerp(28.5f, 45f, t);
+            }
+
+            // B → C : stay 45
+            else if (playerX > B && playerX < C)
+            {
+                Camera.main.orthographicSize = 45f;
+            }
+
+            // C → D : 45 → 28.5
+            else if (playerX >= C && playerX <= D)
+            {
+                float t = Mathf.InverseLerp(C, D, playerX);
+
+                Camera.main.orthographicSize =
+                    Mathf.Lerp(45f, 24.5f, t);
+            }
+
+            // After D : stay 28.5
+            else if (playerX > D)
+            {
+                Camera.main.orthographicSize = 24.5f;
             }
         }
-        
+
+        // PLAYER MOVEMENT
 
         float x = Input.GetAxisRaw("Horizontal");
-        //float y = Input.GetAxisRaw("Vertical");
 
         finalSpeed = new Vector2(x, 0);
 
         body.linearVelocity = finalSpeed * speed;
+
+        // WALKING ANIMATION
 
         if (Input.GetKey(KeyCode.A))
         {
@@ -70,7 +91,5 @@ public class MavlaMove : MonoBehaviour
         {
             animator.SetBool("IsWalking", false);
         }
-         
-
     }
 }
