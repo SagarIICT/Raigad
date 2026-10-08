@@ -22,14 +22,20 @@ public class SceneChange : MonoBehaviour
  
     public void GoBack()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        
+        CloudAnimatorLeft.SetTrigger("Cloud left in");
+        CloudAnimatorRight.SetTrigger("Cloud Right In");
+        Invoke(nameof(sceneChangeBackward), 2f);
 
     }
     public void GoForward()
     {
         Debug.Log("Next");
         //CloudAnimator.SetTrigger("In");
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        
+        CloudAnimatorLeft.SetTrigger("Cloud left in");
+        CloudAnimatorRight.SetTrigger("Cloud Right In");
+        Invoke(nameof(sceneChangeForward), 2f);
     }
     public void ExplorerModeButton()
     {
@@ -41,6 +47,14 @@ public class SceneChange : MonoBehaviour
     void LoadMahaDarwaja()
     {
         SceneManager.LoadScene("S4 Maha Darwaja");
+    }
+    void sceneChangeForward()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+    void sceneChangeBackward()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
     }
 
 

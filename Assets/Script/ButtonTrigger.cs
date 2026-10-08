@@ -5,6 +5,7 @@ public class ButtonTrigger : MonoBehaviour
 {
     public Button button1;
     public Button button2;
+    
 
     private void Start()
     {
@@ -21,8 +22,10 @@ public class ButtonTrigger : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        
         if (other.CompareTag("Player"))
         {
+
             if (button1 != null)
             {
                 button1.interactable = true;
