@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine;
+
 
 public class S4HotspotScroll : MonoBehaviour
 {
@@ -24,6 +24,19 @@ public class S4HotspotScroll : MonoBehaviour
         scrollAnimator.ResetTrigger("CloseScroll");
         scrollAnimator.SetTrigger("OpenScroll");
         CloseButton.SetActive(true);
+        
+
+    }
+    public void OpenScrollS5()
+    {
+        ScrollOpen.SetActive(true);
+
+
+        //Gradient.SetActive(true);
+        scrollAnimator.ResetTrigger("CloseScroll");
+        scrollAnimator.SetTrigger("OpenScroll");
+        CloseButton.SetActive(true);
+        Debug.Log("S6");
 
     }
 
@@ -37,6 +50,16 @@ public class S4HotspotScroll : MonoBehaviour
 
         Gradient.SetActive(false);
         CloseButton.SetActive(false);
+        Debug.Log("Hii");
+    }
+    public void CloseScrollS6()
+    {
+
+        scrollAnimator.ResetTrigger("OpenScroll");
+        scrollAnimator.SetTrigger("CloseScroll");
+
+        CloseButton.SetActive(false);
+        Debug.Log("Hii");
     }
 
 
