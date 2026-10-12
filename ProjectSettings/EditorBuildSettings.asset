@@ -29,5 +29,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/S9 End and Credits.unity
     guid: 3ddc11ee502148444a797ea05221db04
+  - enabled: 1
+    path: Assets/Scenes/Video.unity
+    guid: 05ab67021beee494a8e90a4c3b6a8234
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

@@ -106,4 +106,8 @@ public class S4HotspotScroll : MonoBehaviour
     {
         scrollAnimator.SetBool("IsOpen", false);
     }
+    public void S5Hotsopt1()
+    {
+
+    }
 }

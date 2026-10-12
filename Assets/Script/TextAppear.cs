@@ -5,10 +5,12 @@ using System.Collections;
 public class TextAppear : MonoBehaviour
 {
     public GameObject TextActive1;
-    public GameObject TextActive2;
+    
 
     public TMP_Text text1;
-    public TMP_Text text2;
+    
+    public string scrollText1 = "";
+    
 
     public bool isTextAnim = false;
 
@@ -43,7 +45,7 @@ public class TextAppear : MonoBehaviour
         if (typingCoroutine1 == null)
         {
             typingCoroutine1 = StartCoroutine(
-                TypeText1("The Maha Darwaza was the main entrance, part of Raigad's defences. Its blind curves slowed attackers, exposing them to defenders...")
+                TypeText1("" + scrollText1)
             );
         }
     }
@@ -66,7 +68,7 @@ public class TextAppear : MonoBehaviour
     // TEXT 2
     public void ShowText2()
     {
-        TextActive2.SetActive(true);
+        
         TextActive1.SetActive(true);
 
         CancelInvoke(nameof(StartTyping2));
@@ -83,8 +85,8 @@ public class TextAppear : MonoBehaviour
             typingCoroutine2 = null;
         }
 
-        TextActive2.SetActive(false);
-        text2.text = "";
+        
+        text1.text = "";
     }
 
     void StartTyping2()
@@ -92,18 +94,18 @@ public class TextAppear : MonoBehaviour
         if (typingCoroutine2 == null)
         {
             typingCoroutine2 = StartCoroutine(
-                TypeText2("The Maha Darwaza was the primary access route and was traditionally opened at dawn and closed at sunset...")
+                TypeText1("" + scrollText1)
             );
         }
     }
 
     IEnumerator TypeText2(string message)
     {
-        text2.text = "";
+        text1.text = "";
 
         foreach (char letter in message)
         {
-            text2.text += letter;
+            text1.text += letter;
             yield return new WaitForSeconds(0.05f);
         }
 

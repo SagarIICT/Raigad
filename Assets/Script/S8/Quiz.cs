@@ -20,7 +20,7 @@ public class Quiz : MonoBehaviour
 
         WrongAnswers1.SetActive(false);
         WrongAnswers2.SetActive(false);
-        //WrongAnswers3.SetActive(false);
+        WrongAnswers3.SetActive(false);
         WrongAnswers4.SetActive(false);
     }
 
