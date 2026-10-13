@@ -10,12 +10,14 @@ public class Hirakani : MonoBehaviour
 
     public GameObject Scroll;
     public GameObject Text;
+    public GameObject TextFacts;
 
     public GameObject scrollBackgroundImage;
     public GameObject scrollbackGroundMountain;
     public GameObject hirakani;
     public GameObject Image;
     public Slider mySlider;
+    public GameObject scrollNextButton;
     public float Timer = 0;
     private bool isInputOn = true;
 
@@ -33,6 +35,8 @@ public class Hirakani : MonoBehaviour
         //Image.SetActive(false);
         mySlider.gameObject.SetActive(false);
         Text.SetActive(false);
+        scrollNextButton.SetActive(false);
+        TextFacts.SetActive(false);
     }
 
     
@@ -81,18 +85,43 @@ public class Hirakani : MonoBehaviour
         
         Scroll.SetActive(false);
     }
-    public void OnPlayerEnter2D()
+    public void OnPlayerEnter2D1()
     {
         
         
             Scroll.SetActive(true);
-            Invoke(nameof(ShowScroll), 1.1f);
-            mySlider.gameObject.SetActive(true);
+            Invoke(nameof(ShowScroll1), 1.1f);
+            
         
     }
-    public void ShowScroll()
+    public void Hide1Scroll()
     {
-       // Image.SetActive(true);
+
+
+        Scroll.SetActive(false);
+        TextFacts.SetActive(false);
+        Invoke(nameof(OnPlayerEnter2D2), .5f);
+        scrollNextButton.SetActive(false);
+        
+
+    }
+    public void OnPlayerEnter2D2()
+    {
+
+
+        Scroll.SetActive(true);
+        Invoke(nameof(ShowScroll2), 1.1f);
+        mySlider.gameObject.SetActive(true);
+
+    }
+    public void ShowScroll1()
+    {
+        scrollNextButton.SetActive(true);
+        TextFacts.SetActive(true);
+    }
+    public void ShowScroll2()
+    {
+        // Image.SetActive(true);
         scrollBackgroundImage.SetActive(true);
         scrollbackGroundMountain.SetActive(true);
         hirakani.SetActive(true);

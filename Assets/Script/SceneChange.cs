@@ -56,6 +56,16 @@ public class SceneChange : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
     }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+
+        if (other.CompareTag("Player"))
+        {
+            CloudAnimatorLeft.SetTrigger("Cloud left in");
+            CloudAnimatorRight.SetTrigger("Cloud Right In");
+            Invoke(nameof(sceneChangeForward), 2f);
+        }
+    }
 
 
 }

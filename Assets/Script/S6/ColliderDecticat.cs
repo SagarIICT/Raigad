@@ -17,7 +17,7 @@ public class ColliderDecticat : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            hirakani.OnPlayerEnter2D();
+            hirakani.OnPlayerEnter2D1();
         }
     }
 }
