@@ -2913,6 +2913,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cloud trassition left
       objectReference: {fileID: 0}
+    - target: {fileID: 6805387407775603058, guid: 3b4f729afee8ed24b883a0f6c0da187a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -141
+      objectReference: {fileID: 0}
     - target: {fileID: 7243909026558947805, guid: 3b4f729afee8ed24b883a0f6c0da187a, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -2927,7 +2931,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7243909026558947805, guid: 3b4f729afee8ed24b883a0f6c0da187a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -436
+      value: -454
       objectReference: {fileID: 0}
     - target: {fileID: 7243909026558947805, guid: 3b4f729afee8ed24b883a0f6c0da187a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2965,6 +2969,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8006301214348836864, guid: 3b4f729afee8ed24b883a0f6c0da187a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 998
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2988,6 +2996,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1650406213}
     m_Modifications:
+    - target: {fileID: 1293259031997435096, guid: 7038f8c6da4f8a44cb1964e8eb8da17d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -59
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293259031997435096, guid: 7038f8c6da4f8a44cb1964e8eb8da17d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 228
+      objectReference: {fileID: 0}
+    - target: {fileID: 2977715062503425178, guid: 7038f8c6da4f8a44cb1964e8eb8da17d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.3183
+      objectReference: {fileID: 0}
+    - target: {fileID: 2977715062503425178, guid: 7038f8c6da4f8a44cb1964e8eb8da17d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.3183
+      objectReference: {fileID: 0}
+    - target: {fileID: 2977715062503425178, guid: 7038f8c6da4f8a44cb1964e8eb8da17d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.3183
+      objectReference: {fileID: 0}
+    - target: {fileID: 2977715062503425178, guid: 7038f8c6da4f8a44cb1964e8eb8da17d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 198
+      objectReference: {fileID: 0}
+    - target: {fileID: 2977715062503425178, guid: 7038f8c6da4f8a44cb1964e8eb8da17d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 1069
+      objectReference: {fileID: 0}
+    - target: {fileID: 4387064986266152684, guid: 7038f8c6da4f8a44cb1964e8eb8da17d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -37
+      objectReference: {fileID: 0}
     - target: {fileID: 6749474022282606317, guid: 7038f8c6da4f8a44cb1964e8eb8da17d, type: 3}
       propertyPath: m_Name
       value: Cloud Trassition right
@@ -3006,7 +3046,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8748227991201812313, guid: 7038f8c6da4f8a44cb1964e8eb8da17d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3532
+      value: 4050
       objectReference: {fileID: 0}
     - target: {fileID: 8748227991201812313, guid: 7038f8c6da4f8a44cb1964e8eb8da17d, type: 3}
       propertyPath: m_LocalPosition.y
