@@ -1,11 +1,17 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class ButtonTrigger : MonoBehaviour
 {
     public Button button;
+    public Animator scrollAnimator;
+    public GameObject CloseButton;
+    public GameObject text1;
+    public TMP_Text text;
 
-    
+
+
 
     private void Start()
     {
@@ -38,6 +44,11 @@ public class ButtonTrigger : MonoBehaviour
             if (button != null)
             {
                 button.interactable = false;
+                scrollAnimator.ResetTrigger("OpenScroll");
+                scrollAnimator.SetTrigger("CloseScroll");
+                CloseButton.SetActive(false);
+                text1.SetActive(false);
+                text.text = "";
             }
 
         }
