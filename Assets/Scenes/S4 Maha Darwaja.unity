@@ -422,6 +422,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 5436877811066705180, guid: 2caf41a8d393fce448347a5533e75d6c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5436877811066705180, guid: 2caf41a8d393fce448347a5533e75d6c, type: 3}
       propertyPath: TextActive1
       value: 
       objectReference: {fileID: 0}
@@ -935,6 +939,7 @@ GameObject:
   - component: {fileID: 429812720}
   - component: {fileID: 429812724}
   - component: {fileID: 429812725}
+  - component: {fileID: 429812726}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1065,6 +1070,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneChange
   CloudAnimatorLeft: {fileID: 1750877133}
   CloudAnimatorRight: {fileID: 1920551043}
+--- !u!114 &429812726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 429812719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fdfda2d5c300e54fa53e6ce78557228, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TextAppear
+  TextActive1: {fileID: 431098360}
+  text1: {fileID: 431098363}
+  scrollText1: "The Maha Darwaza was the main entrance, part of Raigad\u2019s defences. Its blind curves slowed attackers, exposing them to defenders."
+  TextActive2: {fileID: 651538141}
+  text2: {fileID: 651538144}
+  scrollText2: The Maha Darwaza was the primary access route and was traditionally opened at dawn and closed at sunset.
+  isTextAnim: 0
 --- !u!1 &431098360 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5222853387755667256, guid: c55b08b12ffd0754e9cf65a28667ffe3, type: 3}
@@ -1081,7 +1105,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 954322620390689802}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 431098360}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1fdfda2d5c300e54fa53e6ce78557228, type: 3}
   m_Name: 
@@ -1747,8 +1771,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.35700002, y: 0.05888888}
   m_AnchorMax: {x: 0.6697292, y: 0.32422227}
-  m_AnchoredPosition: {x: -13.5, y: -12.5}
-  m_SizeDelta: {x: -22.800049, y: 11.9157715}
+  m_AnchoredPosition: {x: -5.1023865, y: 39.256714}
+  m_SizeDelta: {x: -14.6846, y: -78.5133}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &651538143
 MonoBehaviour:
@@ -1757,7 +1781,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 651538141}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1fdfda2d5c300e54fa53e6ce78557228, type: 3}
   m_Name: 
@@ -1765,6 +1789,9 @@ MonoBehaviour:
   TextActive1: {fileID: 651538141}
   text1: {fileID: 651538144}
   scrollText1: The Maha Darwaza was the primary access route and was traditionally opened at dawn and closed at sunset.
+  TextActive2: {fileID: 651538141}
+  text2: {fileID: 651538144}
+  scrollText2: The Maha Darwaza was the primary access route and was traditionally opened at dawn and closed at sunset.
   isTextAnim: 0
 --- !u!114 &651538144
 MonoBehaviour:
@@ -1816,7 +1843,7 @@ MonoBehaviour:
   m_fontSize: 36
   m_fontSizeBase: 36
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
@@ -1852,7 +1879,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -0.000091552734, y: 0, z: -9.6604, w: 96.329285}
+  m_margin: {x: -0.000091552734, y: 0, z: -9.6604, w: 4.7407837}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -3073,7 +3100,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2045297439}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1fdfda2d5c300e54fa53e6ce78557228, type: 3}
   m_Name: 
@@ -3081,6 +3108,9 @@ MonoBehaviour:
   TextActive1: {fileID: 2045297439}
   text1: {fileID: 2045297442}
   scrollText1: The Maha Darwaza was the primary access route and was traditionally opened at dawn and closed at sunset.
+  TextActive2: {fileID: 0}
+  text2: {fileID: 0}
+  scrollText2: 
   isTextAnim: 0
 --- !u!114 &2045297442
 MonoBehaviour:
@@ -3503,6 +3533,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 651538144}
     - target: {fileID: 4764613626388990336, guid: c55b08b12ffd0754e9cf65a28667ffe3, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4764613626388990336, guid: c55b08b12ffd0754e9cf65a28667ffe3, type: 3}
       propertyPath: TextActive2
       value: 
       objectReference: {fileID: 651538141}
@@ -3585,6 +3619,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5240369623252069444, guid: 45dac6eb4cead0946970475d301e3061, type: 3}
+      propertyPath: text
+      value: 
+      objectReference: {fileID: 651538144}
+    - target: {fileID: 5240369623252069444, guid: 45dac6eb4cead0946970475d301e3061, type: 3}
+      propertyPath: text1
+      value: 
+      objectReference: {fileID: 431098360}
+    - target: {fileID: 5240369623252069444, guid: 45dac6eb4cead0946970475d301e3061, type: 3}
       propertyPath: button
       value: 
       objectReference: {fileID: 8085517958095715718}
@@ -3596,6 +3638,14 @@ PrefabInstance:
       propertyPath: button2
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 5240369623252069444, guid: 45dac6eb4cead0946970475d301e3061, type: 3}
+      propertyPath: CloseButton
+      value: 
+      objectReference: {fileID: 795596088}
+    - target: {fileID: 5240369623252069444, guid: 45dac6eb4cead0946970475d301e3061, type: 3}
+      propertyPath: scrollAnimator
+      value: 
+      objectReference: {fileID: 915218600}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3696,11 +3746,19 @@ PrefabInstance:
     - target: {fileID: 1172886161251616769, guid: bd276888c6b01ec409a6ed54a1442b45, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
-      objectReference: {fileID: 431098362}
+      objectReference: {fileID: 429812726}
+    - target: {fileID: 1172886161251616769, guid: bd276888c6b01ec409a6ed54a1442b45, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: ShowText
+      objectReference: {fileID: 0}
     - target: {fileID: 4743706094959841396, guid: bd276888c6b01ec409a6ed54a1442b45, type: 3}
       propertyPath: text1
       value: 
       objectReference: {fileID: 431098363}
+    - target: {fileID: 4743706094959841396, guid: bd276888c6b01ec409a6ed54a1442b45, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4743706094959841396, guid: bd276888c6b01ec409a6ed54a1442b45, type: 3}
       propertyPath: TextActive1
       value: 
@@ -3898,7 +3956,11 @@ PrefabInstance:
     - target: {fileID: 4540129363209917711, guid: 2caf41a8d393fce448347a5533e75d6c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
-      objectReference: {fileID: 431098362}
+      objectReference: {fileID: 429812726}
+    - target: {fileID: 4540129363209917711, guid: 2caf41a8d393fce448347a5533e75d6c, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: ShowText2
+      objectReference: {fileID: 0}
     - target: {fileID: 4837813139095081731, guid: 2caf41a8d393fce448347a5533e75d6c, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -3984,6 +4046,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 431098363}
     - target: {fileID: 5436877811066705180, guid: 2caf41a8d393fce448347a5533e75d6c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5436877811066705180, guid: 2caf41a8d393fce448347a5533e75d6c, type: 3}
       propertyPath: TextActive1
       value: 
       objectReference: {fileID: 431098360}
@@ -3995,7 +4061,8 @@ PrefabInstance:
       propertyPath: TextActive1
       value: 
       objectReference: {fileID: 431098360}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7014303134028782538, guid: 2caf41a8d393fce448347a5533e75d6c, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
