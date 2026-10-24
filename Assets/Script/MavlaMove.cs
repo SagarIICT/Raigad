@@ -3,6 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class MavlaMove : MonoBehaviour
 {
+    
     public Rigidbody2D body;
     public float speed = 5f;
 
