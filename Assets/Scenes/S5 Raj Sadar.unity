@@ -1111,6 +1111,9 @@ MonoBehaviour:
   TextActive1: {fileID: 763726243}
   text1: {fileID: 650444769}
   scrollText1: 
+  TextActive2: {fileID: 0}
+  text2: {fileID: 0}
+  scrollText2: 
   isTextAnim: 0
 --- !u!1 &650444767
 GameObject:
@@ -1879,6 +1882,9 @@ MonoBehaviour:
   TextActive1: {fileID: 2058411572}
   text1: {fileID: 650444769}
   scrollText1: 
+  TextActive2: {fileID: 0}
+  text2: {fileID: 0}
+  scrollText2: 
   isTextAnim: 0
 --- !u!1001 &893966616
 PrefabInstance:
@@ -2656,23 +2662,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 70
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 70
-      objectReference: {fileID: 0}
-    - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2704,11 +2698,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 167.7
+      value: 104.6
       objectReference: {fileID: 0}
     - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -63.9
+      value: -63.899994
       objectReference: {fileID: 0}
     - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2722,76 +2716,28 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3085750899291082835, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3085750899291082835, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3085750899291082835, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+    - target: {fileID: 2508036903972424463, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
+      propertyPath: CloudAnimatorLeft
       value: 
-      objectReference: {fileID: 1147625267}
-    - target: {fileID: 3085750899291082835, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 3085750899291082835, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: GoForward
-      objectReference: {fileID: 0}
-    - target: {fileID: 3085750899291082835, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: SceneChange, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 3085750899291082835, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1571036213}
+    - target: {fileID: 2508036903972424463, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
+      propertyPath: CloudAnimatorRight
+      value: 
+      objectReference: {fileID: 565302364}
     - target: {fileID: 5083244688967879764, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
       propertyPath: m_Name
       value: 'Right Arrow Button '
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 5106924408508461547, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-    - {fileID: 1504615182778478488, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 5083244688967879764, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1147625267}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
 --- !u!224 &1147625265 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 586793987816146031, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
   m_PrefabInstance: {fileID: 1147625264}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1147625266 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5083244688967879764, guid: c0efc79e5e339ea4c85fe3f352aa315f, type: 3}
-  m_PrefabInstance: {fileID: 1147625264}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1147625267
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1147625266}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 13e966ae55e17f1458af31243d781024, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SceneChange
-  CloudAnimatorLeft: {fileID: 1571036213}
-  CloudAnimatorRight: {fileID: 565302364}
 --- !u!1 &1174404256
 GameObject:
   m_ObjectHideFlags: 0
@@ -3725,6 +3671,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1145942890}
     m_Modifications:
+    - target: {fileID: 2632299580313806129, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
+      propertyPath: CloudAnimatorLeft
+      value: 
+      objectReference: {fileID: 1571036213}
+    - target: {fileID: 2632299580313806129, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
+      propertyPath: CloudAnimatorRight
+      value: 
+      objectReference: {fileID: 565302364}
     - target: {fileID: 3085460924501826179, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -3751,23 +3705,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3085460924501826179, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 70
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 3085460924501826179, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 70
-      objectReference: {fileID: 0}
-    - target: {fileID: 3085460924501826179, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3085460924501826179, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3085460924501826179, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 3085460924501826179, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3799,7 +3741,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3085460924501826179, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 85
+      value: 49.1
       objectReference: {fileID: 0}
     - target: {fileID: 3085460924501826179, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -3817,74 +3759,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3085460924501826179, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 4348388752686392178, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
       propertyPath: m_Name
       value: 'Left Arrow Button '
       objectReference: {fileID: 0}
-    - target: {fileID: 5531716699709350873, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5531716699709350873, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5531716699709350873, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1641859530}
-    - target: {fileID: 5531716699709350873, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 5531716699709350873, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: GoBack
-      objectReference: {fileID: 0}
-    - target: {fileID: 5531716699709350873, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: SceneChange, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 5531716699709350873, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4348388752686392178, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1641859530}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
 --- !u!224 &1641859528 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 3085460924501826179, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
   m_PrefabInstance: {fileID: 1641859527}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1641859529 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4348388752686392178, guid: b09e0ee621bfcb2449d5e3411a548402, type: 3}
-  m_PrefabInstance: {fileID: 1641859527}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1641859530
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1641859529}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 13e966ae55e17f1458af31243d781024, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SceneChange
-  CloudAnimatorLeft: {fileID: 1571036213}
-  CloudAnimatorRight: {fileID: 565302364}
 --- !u!1 &1645201290 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4899337540204358996, guid: b9441608b6ffeb549b6b7c83a89880ab, type: 3}
@@ -3905,6 +3793,9 @@ MonoBehaviour:
   TextActive1: {fileID: 650444767}
   text1: {fileID: 650444769}
   scrollText1: 
+  TextActive2: {fileID: 0}
+  text2: {fileID: 0}
+  scrollText2: 
   isTextAnim: 0
 --- !u!1 &1785509483
 GameObject:
